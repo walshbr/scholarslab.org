@@ -10,7 +10,7 @@ position: Head of Graduate Programs
 short_bio: 'Brandon Walsh is Head of Graduate Programs in the Scholars’ Lab, where he consults on all things related to pedagogy.'
 slug: brandon-walsh
 status: current
-twitter: None
+twitter: walshbr
 website: http://walshbr.com
 people-category:
 - 2012–2013
