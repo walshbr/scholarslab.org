@@ -492,7 +492,7 @@
 	position: relative;
 	width: 100%;
 	height: 250px;
-	box-shadow: 0 0 2px 1px rgba(0, 0, 0, .05);
+//	box-shadow: 0 0 2px 1px rgba(0, 0, 0, .05);
 /*	&::before {
 		content: '';
 		position: absolute;
@@ -509,6 +509,7 @@
 		height: 100%;
 		width: 100%;
 		overflow: hidden;
+		border-radius: 50%;
 		img {
 			max-width: 100%;
 			transition: transform .3s;
