@@ -1,0 +1,13 @@
+open-office-hours:
+  - location: "Scholars' Lab Public Space"
+  - hours:
+    - monday: 10-11:30am
+
+makerspace:
+  - location: "Makerspace"
+  - hours:
+    - monday: 1-7pm
+    - tuesday: 1-9pm
+    - wednesday: 1-7pm
+    - thursday: 1-9pm
+    - friday: 1-5pm 
