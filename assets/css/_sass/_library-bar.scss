@@ -1,0 +1,55 @@
+body {
+    display:flex;
+    flex-direction: column;
+    flex-wrap: no-wrap;
+}
+
+#uva-library {
+    order: -1;
+    background: black;
+    padding: 0;
+    line-height:0;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: no-wrap;
+    justify-content:flex-start;
+    align-items: stretch;
+    font-size: .825rem;
+    border-bottom: 1px dotted rgba(255,255,255,0.5);
+    a,:link {
+        color: #ddd;
+        color: rgba(255,255,255,.75);
+        text-decoration:none;
+        display:inline-block;
+        line-height:0;
+        padding: .25rem .5rem;
+        display:flex;
+        justify-content: center;
+        align-items:center;
+        svg {
+            max-width: 180px;
+            path {
+                fill: #ccc;
+                fill: rgba(255, 255, 255, 0.75);
+            }
+        }
+    }
+
+    a:hover,a:focus {
+        color: white;
+        background-color: #202020;
+
+        svg {
+            path {
+                fill: white;
+            }
+        }
+
+    }
+}
+
+.audible {
+    display:none;
+}
+
+
